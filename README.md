@@ -4,12 +4,9 @@ Monte Carlo simulation algorithm for estimating the value of π
 
 PROBLEMA
 ========
-Dado o seguinte log de uma corrida de Kart:
 
-```text
-Pretende-se implementar o algoritmo de simulação de monte carlo para estimativo do valor de π, recorrendo a múltiplas threads de forma a paralelizar a tarefa.
+* Pretende-se implementar o algoritmo de simulação de monte carlo para estimativo do valor de π, recorrendo a múltiplas threads de forma a paralelizar a tarefa.
 
-```
 
 Resultado esperado
 ------------------
