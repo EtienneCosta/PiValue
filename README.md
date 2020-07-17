@@ -1,18 +1,17 @@
 # PiValue
 Monte Carlo simulation algorithm for estimating the value of π
 
-PROBLEMA
+PROBLEM
 ========
 
-* Pretende-se implementar o algoritmo de simulação de monte carlo para estimativo do valor de π, recorrendo a múltiplas threads de forma a paralelizar a tarefa.
+* It is intended to implement the Monte Carlo simulation algorithm to estimate the value of π, using multiple threads in order to parallelize the task.
 
-
-Resultado esperado
+Expected Result
 ------------------
 
 ![log print](output.png)
 
 
-Observações
+Comments
 ------------
-* O número de Threads e Número de pontos são preponderantes em dois sentidos, quantos mais pontos tens mais preciso acaba por ser,i.e, o valor estimado de pi  é mais próximo ao valor real, e  que o número de Threads tem um impacto significativo no tempo de execução.
+* The number of threads and points are preponderant in two ways, the more points you have the more accurate it turns out to be, ie, the estimated value of pi is closer to the real value, and that the number of threads has a significant impact on the time of execution.
