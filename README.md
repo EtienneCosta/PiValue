@@ -15,5 +15,4 @@ Resultado esperado
 
 Observações
 ------------
-* A primeira linha do arquivo pode ser desconsiderada (Hora, Piloto, Nº Volta, Tempo Volta, Velocidade média da volta).
-* A corrida termina quando o primeiro colocado completa 4 voltas
+* O número de Threads e Número de pontos são preponderantes em dois sentidos, quantos mais pontos tens mais preciso acaba por ser,i.e, o valor estimado de pi  é mais próximo ao valor real, e  que o número de Threads tem um impacto significativo no tempo de execução.
